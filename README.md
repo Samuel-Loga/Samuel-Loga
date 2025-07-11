@@ -1,7 +1,7 @@
 --
 👋 **Welcome to my digital space!** 
 
-I'm a passionate **Cybersecurity Engineer** 🔐, **Machine Learning Enthusiast** 🤖, and **Full-Stack Developer** 💻. I focus on securing systems, applications, and networks. I also explore how AI can solve real-world problems using data-driven models. And I build fast, scalable, and user-friendly web applications. 
+I'm a passionate **Cybersecurity Engineer**, **Machine Learning Enthusiast**, and **Full-Stack Developer**. I focus on securing systems, applications, and networks. I also explore how AI can solve real-world problems using data-driven models. And I build fast, scalable, and user-friendly web applications. 
 
 I enjoy collaborating with teams to create innovative solutions that make a positive impact ✨
 
