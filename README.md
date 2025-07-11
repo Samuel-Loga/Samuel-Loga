@@ -10,7 +10,7 @@ I am passionate about what I do and I enjoy collaborating with teams to create i
 
 -- 🤝 **Feel free to explore my work and get in touch!**
 
-📌 Use the social links in the **left sidebar** to connect, don't forget to follow my profile to receive notifications about my activities. And you can as well check out my **portfolio website** linked in the profile info for more.
+📌 Follow my profile to receive notifications about my activities and let's also connect on LinkedIn using the link provided to the **left sidebar**. Check out my **portfolio website** linked in the profile info for more.
 
 ---
 
