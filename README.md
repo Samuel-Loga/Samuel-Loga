@@ -19,7 +19,7 @@ I enjoy working on projects that have real impact, and I thrive in collaborative
 --
 🤝 **Feel free to explore my work and get in touch!**
 
-📌 Use the social links in the **left sidebar** to connect with me. And you can as well check out my **portfolio website** linked in the profile info for more.
+📌 Use the social links in the **left sidebar** to connect, don't forget to follow my profile to receive notifications about my activities. And you can as well check out my **portfolio website** linked in the profile info for more.
 
 ---
 
